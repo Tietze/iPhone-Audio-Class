@@ -37,11 +37,25 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 309468422;
-			PBXWorkspaceStateSaveDate = 309468422;
+			PBXPerProjectTemplateStateSaveDate = 309468645;
+			PBXWorkspaceStateSaveDate = 309468645;
 		};
 		sourceControlManager = CA4C48FD12721D09001F0500 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* iPhone_Audio_Class_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 237}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 205}";
 		};
 	};
 	CA4C48EE12721D06001F0500 /* iPhone-Audio-Class */ = {
